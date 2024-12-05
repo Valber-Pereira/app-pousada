@@ -8,7 +8,7 @@
 
 ### motivação
 
-definir uma api para retornar uma dela versão.
+definir uma API para retornar uma dela versão.
 
 ### tecnologias
 
